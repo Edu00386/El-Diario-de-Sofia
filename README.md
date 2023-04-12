@@ -1,5 +1,4 @@
-### PeriodismoMultimedia 
-
+### El Diario de Sofia
 Contenidos, proyectos y recursos del curso: Creación Multimedia y Periodismo Multiplataforma
 
 [Master de Nuevos Medios Interactivos y Periodismo Multimedia](https://masteres.ugr.es/newmedia_periodismomultimedia/). Este fue el[cartel original de esta primera edición](https://github.com/mgea/PeriodismoMultimedia/blob/master/2016/Cartel_Nuevos%20medios%20Interactivos.pdf) 
@@ -10,27 +9,6 @@ Desde los comienzos en 2015/16, se han desarrollado multitud de actividades y pr
 
 ---
 
-
-- [Proyecto del 2016](https://github.com/mgea/PeriodismoMultimedia/blob/master/2016/README.md) 
-
-
-
-- [Proyecto del 2017](https://github.com/mgea/PeriodismoMultimedia/blob/master/2017/README.md) 
-
-
-
-- [Proyecto del 2018](https://github.com/mgea/PeriodismoMultimedia/blob/master/2018/readme.md) 
-
-
-- [Proyecto del 2019](https://github.com/mgea/PeriodismoMultimedia/blob/master/2019/readme.md) 
-
-- [Proyecto del 2020](https://github.com/mgea/PeriodismoMultimedia/blob/master/2020/readme.md)
-- [Proyectoss del 2021](https://github.com/mgea/PeriodismoMultimedia/blob/master/2021/readme.md)   
-- [Proyectos del 2022](https://github.com/mgea/PeriodismoMultimedia/blob/master/2022/readme.md)   
-
-- [Trabajos fin de Máster / TFM](https://github.com/mgea/PeriodismoMultimedia/blob/master/TFM/readme.md)
-
-- [Repositorio con plantilla para crear ficha de proyecto](https://github.com/mgea/PeriodismoMultimedia_Template)
 
 ---
 
